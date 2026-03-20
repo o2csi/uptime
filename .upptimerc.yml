@@ -5,15 +5,15 @@ sites:
   - name: O2CSI
     url: https://o2csi.com
     headers:
-      User-Agent: "Mozilla/5.0 (compatible; Upptime/1.0; +https://github.com/o2csi/uptime)"
+      - "User-Agent: Mozilla/5.0 (compatible; Upptime/1.0; +https://github.com/o2csi/uptime)"
   - name: O2CSI WWW
     url: https://www.o2csi.com
     headers:
-      User-Agent: "Mozilla/5.0 (compatible; Upptime/1.0; +https://github.com/o2csi/uptime)"
+      - "User-Agent: Mozilla/5.0 (compatible; Upptime/1.0; +https://github.com/o2csi/uptime)"
   - name: Sudoku
     url: https://sudoku.o2csi.com
     headers:
-      User-Agent: "Mozilla/5.0 (compatible; Upptime/1.0; +https://github.com/o2csi/uptime)"
+      - "User-Agent: Mozilla/5.0 (compatible; Upptime/1.0; +https://github.com/o2csi/uptime)"
 
 status-website:
   cname: status.o2csi.com
