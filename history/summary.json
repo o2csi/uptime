@@ -40,9 +40,9 @@
     "url": "https://sudoku.o2csi.com",
     "icon": "https://icons.duckduckgo.com/ip3/sudoku.o2csi.com.ico",
     "slug": "sudoku",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.88%",
@@ -52,6 +52,7 @@
     "timeMonth": 133,
     "timeYear": 131,
     "dailyMinutesDown": {
+      "2026-04-20": 0,
       "2026-04-01": 54
     }
   }
