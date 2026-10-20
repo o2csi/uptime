@@ -1,5 +1,7 @@
 owner: o2csi
 repo: uptime
+# No Actions secret is exposed to the monitor; the generated workflows carry SECRETS_CONTEXT '{}'.
+secrets: []
 
 sites:
   - name: O2CSI
